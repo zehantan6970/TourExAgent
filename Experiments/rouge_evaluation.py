@@ -60,10 +60,10 @@ class TourismFeedbackEvaluator:
 
 def main():
     # Example usage with provided data
-    student_answer = "Front wall of old church, popular tourist spot."
+    student_answer = "The Ruins of St. Paul's is like a monument of history, witnessing the vicissitudes and brilliance of Macau. It was originally built in the 16th century, but after suffering from several fires, only the front wall of the church remains. The Renaissance and Baroque architectural facade, exquisite statues and carvings, make one feel as if they have traveled back in time. Also, the two classical-style street lamps in the foreground, emitting a warm light, add a touch of warmth to this historical tapestry."
     
-    model_feedback = """Extremely limited content. Include historical 
-    background, architectural features, and cultural significance."""
+    model_feedback = """Your description of The Ruins of St. Paul's at night is quite evocative, but there's room for enhancement to make it more detailed and engaging. Here's a revised version incorporating the suggested improvements:
+Nestled in the heart of Macau, The Ruins of St. Paul's stand as a poignant monument to the region's rich history. Originally constructed in the 16th century as part of the Jesuit College of St. Paul, the first Western university in Asia, this church bore witness to the vibrant cultural exchange between East and West. Despite being ravaged by several fires, the front wall remains, a testament to its resilience. The architectural facade is a harmonious blend of Renaissance and Baroque styles, with its ornate portal featuring exquisite carvings and statues of saints like St. Paul and St. Francis Xavier. The use of pilasters and the symmetry of the facade reflect Renaissance principles, while the lavish decorations are quintessentially Baroque. The grand staircase leading up to the facade adds to the imposing nature of the ruins, its stone texture highlighted by the moonlight. At night, the scene is further enhanced by the warm glow of two classical-style street lamps in the foreground, casting soft shadows that accentuate the intricate details of the carvings. This interplay of light and shadow creates a serene, contemplative atmosphere, inviting visitors to pause and reflect on the centuries of history encapsulated within these ruins. By adding these specific details, your description will not only inform but also immerse your audience in the historical, architectural, and cultural significance of The Ruins of St. Paul's at night."""
     
     reference_answer = """The Ruins of St. Paul's (1602-1637) represents 
     a significant historical landmark in Macau, featuring Renaissance and 
