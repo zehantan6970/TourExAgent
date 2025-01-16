@@ -14,6 +14,7 @@ The TourGuide dataset follows a structured format designed to capture the comple
 - Student Feedback: Learner's response to evaluation
 - Final Feedback: Refined recommendations based on interaction
 
+
   We present a representative example from the dataset featuring the Ruins of St. Paul's at night. The example demonstrates three distinct levels of student performance:
   Example from TourGuide Dataset - The Ruins of St. Paul's at Night.
   Reference Answer:  The Ruins of St. Paul's (1602-1637) represents a significant historical landmark in Macau, featuring Renaissance and Baroque architectural elements. Originally East Asia's largest Catholic church until the 1835 fire, its preserved facade showcases exquisite carvings and statues. Two classical street lamps illuminate the structure, creating an atmospheric evening view.
